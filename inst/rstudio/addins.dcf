@@ -7,3 +7,9 @@ Name: Input LaTeX Math
 Description: Input math expressions via the MathQuill library.
 Binding: mathquill
 Interactive: true
+
+
+Name: Insert Image
+Description: Insert image code snippets
+Binding: insert_image
+Interactive: true

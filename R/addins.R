@@ -8,3 +8,8 @@ jquery_dependency = function() {
 mathquill = function() {
   sys.source(bookdown_file('scripts', 'mathquill.R'), new.env())
 }
+
+
+insert_image = function() {
+  sys.source(bookdown_file('scripts', 'insert_image.R'), new.env())
+}
